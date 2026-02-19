@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hiral  
 
-🚀 **Full-Stack Developer | AI Engineer | Computer Vision Specialist**  
+🚀 **AI Engineer| ML Engineer | Computer Vision Specialist**  
 Passionate about building production-ready AI systems that solve real-world problems.
 
 I specialize in **Computer Vision, Object Detection, Intelligent Agents, and ML-powered Web Applications** with hands-on experience in training, optimizing, and deploying deep learning models.
