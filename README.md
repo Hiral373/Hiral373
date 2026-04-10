@@ -49,7 +49,39 @@ I specialize in **Computer Vision, Object Detection, Intelligent Agents, and ML-
 
 ---
 
-## 🤖 1. AI Travel Chatbot  
+## 🌌 1. Enterprise Federated Anomaly Detection (Collaboration)
+🔗 **Repository:** [Federated-Anomaly-Detection](https://github.com/Virenbhalgamiya/Federated-Anomaly-Detection)
+
+### Overview
+An end-to-end decentralized ML pipeline designed to track anomalies in High-Energy Physics data without centralizing sensitive datasets. Built in collaboration with [Virenbhalgamiya](https://github.com/Virenbhalgamiya/).
+
+### Tech Stack
+`PyTorch` `Federated Learning` `Opacus` `FedProx`
+
+### Key Features
+- Decentralized model training securely distributing weights across client nodes
+- Probabilistic Anomaly Detection securely utilizing a Variational Autoencoder (VAE)
+- Mathematical strict Differential Privacy leveraging PyTorch Opacus
+
+---
+
+## 🔬 2. Agentic Adaptive RAG (Collaboration)
+🔗 **Repository:** [adaptive-agentic-rag](https://github.com/Virenbhalgamiya/adaptive-agentic-rag)
+
+### Overview
+An intelligent Retrieval-Augmented Generation system featuring LLM-based query routing, self-correction, and multi-hop reasoning. Built in collaboration with [Virenbhalgamiya](https://github.com/Virenbhalgamiya/).
+
+### Tech Stack
+`Python` `LangGraph` `ChromaDB` `DeepSeek` `FastAPI`
+
+### Key Features
+- Autonomous query classifier to route to Simple, Complex, or Web Search strategies
+- Agentic Self-Grading loop strictly detecting and retrying hallucinations
+- Document decomposition and semantic multi-hop reasoning
+
+---
+
+## 🤖 3. AI Travel Chatbot  
 🔗 **Repository:** [AI-Travel-Chatbot](https://github.com/Hiral373/AI-Travel-Chatbot)
 
 ### Overview
@@ -66,7 +98,7 @@ An intelligent conversational chatbot that helps users plan personalized travel 
 
 ---
 
-## 🌍 2. Travel Planner AI Agent  
+## 🌍 4. Travel Planner AI Agent  
 🔗 **Repository:** [Travel-Planner-AI-Agent-](https://github.com/Hiral373/Travel-Planner-AI-Agent-)
 
 A web-based intelligent travel assistant that behaves like a smart chatbot.
@@ -79,7 +111,7 @@ A web-based intelligent travel assistant that behaves like a smart chatbot.
 
 ---
 
-## 📊 3. Sentiment Analysis with NLP  
+## 📊 5. Sentiment Analysis with NLP  
 🔗 **Repository:** [Sentimental---analysis](https://github.com/Hiral373/Sentimental---analysis)
 
 Machine learning-based sentiment classification project.
@@ -92,7 +124,7 @@ Machine learning-based sentiment classification project.
 
 ---
 
-## 🎯 4. RecommendaFy – Intelligent Recommendation Engine  
+## 🎯 6. RecommendaFy – Intelligent Recommendation Engine  
 🔗 **Repository:** [RecommendaFy](https://github.com/Hiral373/RecommendaFy)
 
 Advanced recommendation system using collaborative & content-based filtering.
@@ -105,7 +137,7 @@ Advanced recommendation system using collaborative & content-based filtering.
 
 ---
 
-## 🤖 5. Research Agent – Autonomous Information System  
+## 🤖 7. Research Agent – Autonomous Information System  
 🔗 **Repository:** [Research-Agent](https://github.com/Hiral373/Research-Agent)
 
 An autonomous AI agent capable of information retrieval and synthesis.
@@ -259,4 +291,3 @@ An autonomous AI agent capable of information retrieval and synthesis.
 ---
 
 ⭐ If you like my work, consider giving a star to my repositories!
-
